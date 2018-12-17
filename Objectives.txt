@@ -1,0 +1,23 @@
+- make missile a projectile, affected by gravity, disappears when hits ground - Done
+- collision detection between missile and tanks - Done
+- score gets affected, tank loses, restart - Done
+- collision detection between both tanks - Done
+- setup terrain blocks randomly (ish) generated - Done
+- collision detection between tanks and blocks - Done
+- collision detection on blocks, they disappear when hit by missile - Done
+- missile affected by elevation - Done
+- missile affected by strength - Done
+- missile affected by wind - Done
+- display score and whose turn it is - Done
+- Select Game mode (Single player or two player) - Done
+- Make AI - Done
+- Make easy/medium/hard AI - Done
+- Damping factor on missile - Done
+- Make blocks fall - Done
+- Show wind direction - Done
+- Show all elements nicely - Done
+- Add controls in first screen - Done
+- Game ends at 10 points w/ 2 point diff, option to restart game
+- Add background
+- Sound effects
+- Hit targets to score points
